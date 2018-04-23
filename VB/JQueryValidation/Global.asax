@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="JQueryValidation.MvcApplication" Language="vb" %>
