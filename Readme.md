@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/JQueryValidation/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/JQueryValidation/Controllers/HomeController.vb))
+* [ValidationData.cs](./CS/JQueryValidation/Models/ValidationData.cs) (VB: [ValidationData.vb](./VB/JQueryValidation/Models/ValidationData.vb))
+* [JQueryValidation.aspx](./CS/JQueryValidation/Views/Home/JQueryValidation.aspx) (VB: [JQueryValidation.aspx](./VB/JQueryValidation/Views/Home/JQueryValidation.aspx))
+* [JQueryValidationSuccess.aspx](./CS/JQueryValidation/Views/Home/JQueryValidationSuccess.aspx) (VB: [JQueryValidationSuccess.aspx](./VB/JQueryValidation/Views/Home/JQueryValidationSuccess.aspx))
+* [Site.Master](./CS/JQueryValidation/Views/Shared/Site.Master) (VB: [Site.Master](./VB/JQueryValidation/Views/Shared/Site.Master))
+<!-- default file list end -->
 # How to use jQuery validation
 
 
