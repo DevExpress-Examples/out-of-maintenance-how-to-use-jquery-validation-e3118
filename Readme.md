@@ -8,6 +8,9 @@
 * [Site.Master](./CS/JQueryValidation/Views/Shared/Site.Master) (VB: [Site.Master](./VB/JQueryValidation/Views/Shared/Site.Master))
 <!-- default file list end -->
 # How to use jQuery validation
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3118)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to validate a Model using validation attributes (StringLength, Required, Range, RegularExpression attributes) applied to the Model properties.</p>
