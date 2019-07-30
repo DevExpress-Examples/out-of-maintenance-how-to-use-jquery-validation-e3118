@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use jQuery validation
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3118)**
+**[[Run Online]](https://codecentral.devexpress.com/e3118/)**
 <!-- run online end -->
 
 
